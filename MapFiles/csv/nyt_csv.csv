@@ -1,0 +1,53 @@
+State,Order_type,Date,Status
+Alabama,Stay-at-home,2020-05-15 00:00:00,expired
+Alaska,Stay-at-home,2020-04-24 00:00:00,expired
+Arizona,Stay-at-home,2020-05-15 00:00:00,expired
+Arkansas,None,N/A,N/A
+California,Stay-at-home,2020-03-19 00:00:00,in effect
+Colorado,Stay-at-home,2020-04-26 00:00:00,expired
+Connecticut,Stay-at-home,2020-04-30 00:00:00,expired
+Delaware,Shelter in place,2020-05-20 00:00:00,expired
+District of Columbia,Stay-at-home,2020-05-29 00:00:00,expired
+Florida,Stay-at-home,2020-05-04 00:00:00,expired
+Georgia,Shelter in place,2020-04-30 00:00:00,expired
+Hawaii,Stay-at-home,2020-05-31 00:00:00,expired
+Idaho,Stay-at-home,2020-05-31 00:00:00,expired
+Illinois,Stay-at-home,2020-05-29 00:00:00,expired
+Indiana,Stay-at-home,2020-05-04 00:00:00,expired
+Iowa,None,N/A,N/A
+Kansas,Stay-at-home,2020-05-03 00:00:00,expired
+Kentucky,Healthy at home,2020-03-26 00:00:00,in effect
+Louisiana,Stay-at-home,2020-05-15 00:00:00,expired
+Maine,Stay-at-home,2020-05-31 00:00:00,expired
+Maryland,Stay-at-home,2020-05-15 00:00:00,expired
+Massachusetts,Stay-at-home advisory,2020-05-18 00:00:00,expired
+Michigan,Stay-at-home,2020-06-01 00:00:00,expired
+Minnesota,Stay-at-home,2020-05-17 00:00:00,expired
+Mississippi,Shelter in place,2020-04-27 00:00:00,expired
+Missouri,Stay-at-home,2020-05-03 00:00:00,expired
+Montana,Stay-at-home,2020-04-26 00:00:00,expired
+Nebraska,None,N/A,N/A
+Nevada,Stay-at-home,2020-05-09 00:00:00,expired
+New Hampshire,Stay-at-home,2020-06-15 00:00:00,expired
+New Jersey,Stay-at-home,2020-06-09 00:00:00,expired
+New Mexico,Stay-at-home,2020-05-31 00:00:00,expired
+New York,Stay-at-home,2020-05-28 00:00:00,expired
+North Carolina,Stay-at-home,2020-05-22 00:00:00,expired
+North Dakota,None,N/A,N/A
+Ohio,Stay-at-home,2020-05-29 00:00:00,expired
+Oklahoma,None,N/A,N/A
+Oregon,Stay-at-home,2020-03-23 00:00:00,in effect
+Pennsylvania,Stay-at-home,2020-06-04 00:00:00,expired
+Puerto Rico,Curfew,2020-03-15 00:00:00,in effect
+Rhode Island,Stay-at-home,2020-07-22 00:00:00,expired
+South Carolina,Stay-at-home,2020-05-04 00:00:00,expired
+South Dakota,None,N/A,N/A
+Tennessee,Stay-at-home,2020-05-08 00:00:00,expired
+Texas,Stay-at-home,2020-04-30 00:00:00,expired
+Utah,None,N/A,N/A
+Vermont,Stay-at-home,2020-04-30 00:00:00,expired
+Virginia,Stay-at-home,2020-06-10 00:00:00,expired
+Washington,Stay-at-home,2020-05-31 00:00:00,expired
+West Virginia,Stay-at-home,2020-05-03 00:00:00,expired
+Wisconsin,Stay-at-home,2020-05-13 00:00:00,struck down
+Wyoming,None,N/A,N/A
